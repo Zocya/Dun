@@ -40,7 +40,7 @@ int main() {
 
     }
 
-
+cout << "Hello lol";
 
 
 }
